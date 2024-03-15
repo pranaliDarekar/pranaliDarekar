@@ -4,23 +4,20 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pranaliDarekar.repoName)
 
 - 👨‍🎓 Pursuing MS in Information Systems at Stevens
-- 🌐 Full Stack Developer with expertise in ReactJS, Angular, and MERN Stack
-- 😊 Enthusiastic about Data Science and Machine Learning
+- 🌐 Business Intelligence Analyst with expertise in Tableau, MS Excel, PowerBI, Python, and SQL
+- 🔖 Certified AWS Cloud Practioner 2024 
+- 😊 Enthusiastic about Data Visualization & Analysis and Business Processes
 - 👀 Creative problem-solver
-- 📥 Reach out to me:
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1rBL-QRiRieG9e33xtmWnCuKLbRaerhIXB0HLSzr_Kz8/edit?usp=sharing)
+- 📥 Reach out to me: pdarekar@stevens.edu
 
   <p>
-    <a href="https://twitter.com/tarund8698" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarund8698" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/tarun-dadlani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-dadlani" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/12967735/tarun-dadlani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12967735/tarun-dadlani" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/tarun.dadlani.5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarun.dadlani.5/" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/tarun_dadlani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarun_dadlani" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/pranali-darekar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranali-darekar" height="30" width="40" /></a>
+    <a href="https://public.tableau.com/app/profile/pranali7738/vizzes" target="_blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ef5b715-f42b-4fa6-b85f-cefe8fdb3217/dfesc3w-5ede39c2-a820-416d-8d2b-55dab8784a85.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlZjViNzE1LWY0MmItNGZhNi1iODVmLWNlZmU4ZmRiMzIxN1wvZGZlc2Mzdy01ZWRlMzljMi1hODIwLTQxNmQtOGQyYi01NWRhYjg3ODRhODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K6su883UeNFw5I_jzoZY3wMB11xoFoYWqqTCV1eyPAw" alt="pranali-darekar" height="40" width="50" /></a>
 </p>
 
 ## 🔭 I'm currently working on
 
-- My portfolio website
+- Tableau certification
 - Leetcode questions
 - Job applications
-- Reading books
-- Resume
