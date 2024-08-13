@@ -18,6 +18,6 @@
 
 ## 🔭 I'm currently working on
 
-- Microsoft Azure Fundamentals AZ-900 certification
 - Leetcode questions
 - Job applications
+- Alterxy certification
